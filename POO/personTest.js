@@ -1,0 +1,1 @@
+var persona = new person(65, 1.75);
