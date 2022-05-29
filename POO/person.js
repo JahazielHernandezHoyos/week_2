@@ -6,8 +6,6 @@ class person {
     this.yearOfBirth = yearOfBirth; 
     this.edad = 2022 - yearOfBirth;
     this.hobbies = [hobbies];
-//     Añadir el atributo hobbies a la clase Person, que es un array de strings, y crear un método
-// denominado printHobbies, que muestre por consola las aficiones de la persona.
 
   }
   printAll() {
