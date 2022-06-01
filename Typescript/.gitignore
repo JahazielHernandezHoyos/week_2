@@ -1,2 +1,2 @@
 #ignorar js
-.js|
+*.js|
