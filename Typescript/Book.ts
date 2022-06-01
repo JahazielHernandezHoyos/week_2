@@ -5,6 +5,7 @@ export class Book {
     private author: string;
     private editorial: string;
 
+
     constructor(title: string, nPages: number, isbn: string, author: string, editorial: string) {
         this.title = title;
         this.nPages = nPages;
