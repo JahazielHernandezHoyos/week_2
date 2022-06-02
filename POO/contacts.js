@@ -17,4 +17,8 @@ class Contacts {
   }
 }
 
+//te añadi una funcion pa revisa
+console.log("holi");
+
+
 export { Contacts };
